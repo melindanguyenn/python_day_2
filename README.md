@@ -4,7 +4,7 @@
 
 - `web.py ` is connecting us to the browser.
 - `routes.py` allows us to use GET and POST routes.
-- `db.py` is connected to the database and can do basic CRUD
+- `db.py` is connected to the database and can do basic CRUD.
 
 ## Setup
 
